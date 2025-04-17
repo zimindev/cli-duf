@@ -92,7 +92,7 @@ Mount       Size   Used   Avail  Use%  Type  Filesystem
 
 ---
 
-## 📚 Learn More
+## 📚 More Info
 
 - GitHub: [https://github.com/muesli/duf](https://github.com/muesli/duf)
 - Manual: man duf
